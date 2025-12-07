@@ -72,7 +72,7 @@ https://joao-robertoo.github.io/projeto-useDev/
 git clone https://github.com/joao-robertoo/projeto-useDev.git
 cd projeto-useDev
 ```
-<br><br>
+<br>
 
 <h2>🙋‍♂️ Autor</h2>
 
@@ -80,8 +80,10 @@ cd projeto-useDev
 
 <p>Desenvolvedor Front-end em evolução | HTML • CSS •</p>  
 Sempre criando projetos reais e aprimorando minhas habilidades a cada desenvolvimento.
----
----
+<br>
+<br>
+<hr>
+<hr>
 
 # 🇺🇸 English Version
 <br>
